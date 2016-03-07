@@ -6,7 +6,7 @@ How to execute:-
 
 1. Edit OozieDynamicWorkFlowGenerator.java file based on your requirment . This class is capable of creating nodes according to your input.
 
-2. Call main  method of DynWfGenerator.java.If you want to pass command line arguments along with main method call, please change this code accordingly. This will perform following actions
+2. Call main  method of DynWfGenerator.java.If you want to pass command line arguments along with main method call, please change the code accordingly. This will perform following actions
 
         a. Create workflow.xml file dynamicaly
 
