@@ -1,6 +1,6 @@
 # Dynamic-Oozie-Workflow-Creator
 
-        Dynamic oozie workflow utility will help you to define oozie workflow dynamically based on your requirement or input files. If you have several cases/flows in your workflow , you can add Nodes dynamically to control the flow in your workflow.This is achieved by using the jaxax xml framework.In this example workflow is written for submitting spark jobs dynamically from oozie.Details are given below :- 
+        Dynamic oozie workflow utility will help you to define oozie workflow dynamically based on your requirement or input files. If you have several cases/flows in your workflow , you can add Nodes dynamically to control the flow in your workflow.This is achieved by using the javax xml framework.In this example workflow is written for submitting spark jobs dynamically from oozie.Details are given below :- 
 
 How to execute:- 
 
